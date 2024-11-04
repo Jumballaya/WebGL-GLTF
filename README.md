@@ -11,7 +11,7 @@ Check out the `loadGTLF.ts` file in `src/gltf` to see how I parsed the `.gltf` J
 Shaders:
 
 - `basic`: just draws the normals
-- `gltf`: this uses the Material class and it created from the `.gltf` file
+- `gltf`: this uses the Material class created for the `.gltf` file material properties
 - `skybox`: this is for drawing the skybox
 
 WebGL:
